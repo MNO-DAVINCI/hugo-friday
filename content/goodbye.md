@@ -1,0 +1,4 @@
+---
+title: "goodbye"
+draft: false
+---
